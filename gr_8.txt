@@ -9,3 +9,7 @@
 
 6) add the sixth line
 7) add the seventh line
+
+
+10) 1010010
+11) 1111111
